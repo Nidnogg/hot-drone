@@ -1,8 +1,8 @@
-# sueli drone
+# hot drone
 
-Sueli Drone is a tiny web app mimicking a radio widget.
+hot Drone is a tiny web app mimicking a radio widget.
 
-It supports user defined alarms and it's mostly intended to play moody songs that would lull the user to a healthy night's sleep.
+It's mostly intended to play moody songs that would lull the user to a healthy night's sleep.
 
 ## Usage
 
